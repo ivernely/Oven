@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/arrow-down.png</file>
+        <file>Images/arrow-down-double.png</file>
+        <file>Images/arrow-left.png</file>
+        <file>Images/arrow-left-double.png</file>
+        <file>Images/arrow-right.png</file>
+        <file>Images/arrow-right-double.png</file>
+        <file>Images/arrow-up.png</file>
+        <file>Images/arrow-up-double.png</file>
+        <file>Images/light-bulb.png</file>
+        <file>Images/rain-icon.png</file>
+        <file>Images/Sign-Alert-icon.png</file>
+        <file>Images/Start-icon.png</file>
+        <file>Images/stop-icon.png</file>
+        <file>Images/cc_logo-icon.png</file>
+        <file>Images/Line-Chart-icon.png</file>
+        <file>Images/Home-icon.png</file>
+        <file>Images/Settings-icon.png</file>
+        <file>Images/Enter.png</file>
+        <file>Images/zoom-in-icon.png</file>
+        <file>Images/zoom-out-icon.png</file>
+        <file>Images/Power-Off-icon.png</file>
+    </qresource>
+</RCC>
